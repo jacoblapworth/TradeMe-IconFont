@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>mail-16</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mail-16" fill-rule="nonzero" fill="#000000">
+            <path d="M13.6,3 L2.4,3 C1.62680135,3 1,3.62680135 1,4.4 L1,11.6 C1,12.3731986 1.62680135,13 2.4,13 L13.6,13 C13.9713031,13 14.3273986,12.8525004 14.5899495,12.5899495 C14.8525004,12.3273986 15,11.9713031 15,11.6 L15,4.4 C15,4.02869691 14.8525004,3.67260144 14.5899495,3.41005051 C14.3273986,3.14749958 13.9713031,3 13.6,3 L13.6,3 Z M11.8,4.8 L8.7,7.24 C8.28682821,7.58794189 7.68317179,7.58794189 7.27,7.24 L4.2,4.8 L11.8,4.8 Z M2.8,11.2 L2.8,6 L6.14,8.62 C6.66143083,9.05715482 7.31956673,9.29776364 8,9.3 C8.66838094,9.30059392 9.31586087,9.06707657 9.83,8.64 L13.2,6 L13.2,11.2 L2.8,11.2 L2.8,11.2 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -386,6 +386,10 @@ eyes@0.1.x:
   version "0.1.8"
   resolved "https://registry.npmjs.org/eyes/-/eyes-0.1.8.tgz#62cf120234c683785d902348a800ef3e0cc20bc0"
 
+file-sync-cmp@^0.1.0:
+  version "0.1.1"
+  resolved "http://sinopia.trademe.local/file-sync-cmp/-/file-sync-cmp-0.1.1.tgz#a5e7a8ffbfa493b43b923bbd4ca89a53b63b612b"
+
 find-up@^1.0.0:
   version "1.1.2"
   resolved "https://registry.npmjs.org/find-up/-/find-up-1.1.2.tgz#6b2e9822b1a2ce0a60ab64d610eccad53cb24d0f"
@@ -504,6 +508,13 @@ grunt-contrib-compress@^1.4.3:
     stream-buffers "^2.1.0"
   optionalDependencies:
     iltorb "^1.0.13"
+
+grunt-contrib-copy@^1.0.0:
+  version "1.0.0"
+  resolved "http://sinopia.trademe.local/grunt-contrib-copy/-/grunt-contrib-copy-1.0.0.tgz#7060c6581e904b8ab0d00f076e0a8f6e3e7c3573"
+  dependencies:
+    chalk "^1.1.1"
+    file-sync-cmp "^0.1.0"
 
 grunt-known-options@~1.1.0:
   version "1.1.0"

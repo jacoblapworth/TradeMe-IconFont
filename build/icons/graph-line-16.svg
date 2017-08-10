@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>graph-line-16</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="graph-line-16" fill-rule="nonzero" fill="#000000">
+            <path d="M1.9,2.2 C1.40294373,2.2 1,2.60294373 1,3.1 L1,15 L13.9,15 C14.3970563,15 14.8,14.5970563 14.8,14.1 C14.8,13.6029437 14.3970563,13.2 13.9,13.2 L2.8,13.2 L2.8,3.1 C2.8,2.60294373 2.39705627,2.2 1.9,2.2 L1.9,2.2 Z" id="Shape"></path>
+            <path d="M5.75,9.5 L7.14,7.41 L10.14,10.41 L13.73,4.41 C13.9672024,3.98634287 13.825592,3.45090372 13.4099599,3.19990512 C12.9943278,2.94890653 12.4545236,3.07284207 12.19,3.48 L9.78,7.48 L6.78,4.48 L4.25,8.5 C3.97385763,8.91421356 4.08578644,9.47385763 4.5,9.75 C4.91421356,10.0261424 5.47385763,9.91421356 5.75,9.5 L5.75,9.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

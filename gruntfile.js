@@ -11,7 +11,7 @@ module.exports = function(grunt) {
           ],
           overwrite: true
         },
-        src: 'src/sketch/TradeMe.TradeMe.Icons.sketch',
+        src: 'src/sketch/*.sketch',
         dest: 'build/icons'
       }
     },
@@ -26,109 +26,79 @@ module.exports = function(grunt) {
         files: 'build/icons/*.svg'
       }
     },
+    // sort svg sizes
+    copy: {
+      Regular24: {
+        files: [
+          {
+            expand: true,
+            cwd: 'build/icons/',
+            src: ['*.svg', '!*-16.svg'],
+            dest: 'build/icons/24/',
+            rename: function(dest, src) {
+              return dest + src.replace(/-16$/, ""); + '.svg';
+            }
+          }
+        ]
+      },
+      Small16: {
+        files: [
+          {
+            expand: true,
+            cwd: 'build/icons/',
+            src: ['*-16.svg'],
+            dest: 'build/icons/16/',
+            rename: function(dest, src) {
+              return dest + src.replace(/\-16/, ""); + '.svg';
+            }
+          }
+        ]
+      }
+    },
     // build font files
     webfont: {
-      // iconfont build and styles for production
-      production: {
-        src: 'build/icons/*.svg',
-        dest: 'build/production',
-        options: {
-          template: 'src/templates/icons.scss',
-          templateOptions: {
-            baseClass: 'tmicon',
-            classPrefix: 'tmicon-'
-          },
-          customOutputs: [{
-            template: 'src/templates/codepoints',
-            dest: 'build'
-          }],
-          stylesheets: ['css', 'scss'],
-          hashes: true,
-          font: 'tmicons',
-          styles: 'font,icon',
-          types: 'eot,woff,ttf,svg',
-          order: 'eot,woff,ttf,svg',
-          fontHeight: 960,
-          descent: 0,
-          codepointsFile: 'src/codepoints',
-          htmlDemo: true,
-          htmlDemoTemplate: 'src/templates/tmicons-demo.html',
-          destHtml: 'build'
-        }
-      },
-      // iconfont build and styles for gh-pages deploy
-      deploy: {
-        src: 'build/icons/*.svg',
-        dest: 'docs/production',
-        options: {
-          template: 'src/templates/icons.scss',
-          templateOptions: {
-            baseClass: 'tmicon',
-            classPrefix: 'tmicon-'
-          },
-          stylesheets: ['css'],
-          hashes: true,
-          font: 'tmicons',
-          styles: 'font,icon',
-          types: 'eot,woff,ttf,svg',
-          order: 'eot,woff,ttf,svg',
-          fontHeight: 960,
-          descent: 0,
-          codepointsFile: 'src/codepoints',
-          htmlDemo: true,
-          htmlDemoTemplate: 'src/templates/tmicons-demo.html',
-          htmlDemoFilename: 'index',
-          destHtml: 'docs'
-        }
-      },
       // iconfont for Sketch App toolkit
-      sketchtoolkit: {
-        src: 'build/icons/*.svg',
+      sketchtoolkit_regular: {
+        src: 'build/icons/24/*.svg',
         dest: 'build/sketch-toolkit',
         options: {
-          font: 'tmicons',
+          font: 'TangramIcons-Regular24',
           types: 'ttf',
           fontHeight: 960,
           descent: 0,
           ligatures: true,
           stylesheets: [],
-          htmlDemo: false
+          htmlDemo: false,
+          codepointsFile: 'src/codepoints',
+          customOutputs: [{
+            template: 'src/templates/codepoints',
+            dest: 'build'
+          }]
         }
-      }
-    },
-    // package build files for release
-    compress: {
-      production: {
-        options: {
-          archive: 'dist/tmicons-production.zip'
-        },
-        files: [{
-          expand: true,
-          cwd: 'build/production/',
-          src: ['**/*'],
-          dest: ''
-        }]
       },
-      sketchtoolkit: {
+      sketchtoolkit_small: {
+        src: 'build/icons/16/*.svg',
+        dest: 'build/sketch-toolkit',
         options: {
-          archive: 'dist/tmicons-sketch.zip'
-        },
-        files: [{
-          expand: true,
-          cwd: 'build/sketch-toolkit/',
-          src: ['**/*'],
-          dest: ''
-        }]
+          font: 'TangramIcons-Small-16',
+          types: 'ttf',
+          fontHeight: 960,
+          descent: 0,
+          ligatures: true,
+          stylesheets: [],
+          htmlDemo: false,
+          codepointsFile: 'src/codepoints'
+        }
       }
     }
   });
 
   grunt.loadNpmTasks('grunt-sketch');
   grunt.loadNpmTasks('grunt-svgmin');
+  grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-webfont');
-  grunt.loadNpmTasks('grunt-contrib-compress');
 
   // Default task(s).
-  grunt.registerTask('default', ['sketch_export', 'svgmin', 'webfont', 'compress']);
+  grunt.registerTask('default', ['sketch_export', 'svgmin', 'copy', 'webfont']);
 
 };

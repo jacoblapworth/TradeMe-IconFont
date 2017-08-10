@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>view-categories</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="view-categories" fill-rule="nonzero" fill="#212121">
+            <path d="M13,8 C12.4477153,8 12,7.55228475 12,7 C12,6.44771525 12.4477153,6 13,6 L21,6 C21.5522847,6 22,6.44771525 22,7 C22,7.55228475 21.5522847,8 21,8 L13,8 Z M13,13 C12.4477153,13 12,12.5522847 12,12 C12,11.4477153 12.4477153,11 13,11 L21,11 C21.5522847,11 22,11.4477153 22,12 C22,12.5522847 21.5522847,13 21,13 L13,13 Z M13,18 C12.4477153,18 12,17.5522847 12,17 C12,16.4477153 12.4477153,16 13,16 L21,16 C21.5522847,16 22,16.4477153 22,17 C22,17.5522847 21.5522847,18 21,18 L13,18 Z M7.894,10 L7.198,8.092 L3.742,8.092 L3.046,10 L1.222,10 L4.45,1.384 L6.538,1.384 L9.778,10 L7.894,10 Z M5.47,3.364 L4.27,6.664 L6.67,6.664 L5.47,3.364 Z M8.95,19.428 L8.95,21 L2.086,21 L2.086,19.632 L6.526,13.956 L2.134,13.956 L2.134,12.384 L8.89,12.384 L8.89,13.752 L4.51,19.428 L8.95,19.428 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

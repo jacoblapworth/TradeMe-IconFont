@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>window-16</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="window-16" fill-rule="nonzero" fill="#000000">
+            <path d="M2.9,15 L13.1,15 C14.149341,15 15,14.149341 15,13.1 L15,2.9 C15,1.85065898 14.149341,1 13.1,1 L2.9,1 C1.85065898,1 1,1.85065898 1,2.9 L1,13.1 C1,14.149341 1.85065898,15 2.9,15 L2.9,15 Z M13.1,13.2 L2.9,13.2 C2.84477153,13.2 2.8,13.1552285 2.8,13.1 L2.8,9 L13.2,9 L13.2,13.1 C13.2,13.1552285 13.1552285,13.2 13.1,13.2 L13.1,13.2 Z M2.9,2.8 L13.1,2.8 C13.1552285,2.8 13.2,2.84477153 13.2,2.9 L13.2,7.2 L2.8,7.2 L2.8,2.9 C2.8,2.84477153 2.84477153,2.8 2.9,2.8 L2.9,2.8 Z" id="Shape"></path>
+            <circle id="Oval" cx="5" cy="5" r="1"></circle>
+            <path d="M8,6 L11,6 C11.5522847,6 12,5.55228475 12,5 C12,4.44771525 11.5522847,4 11,4 L8,4 C7.44771525,4 7,4.44771525 7,5 C7,5.55228475 7.44771525,6 8,6 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

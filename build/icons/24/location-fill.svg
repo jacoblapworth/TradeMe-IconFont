@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>location-fill</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="location-fill" fill-rule="nonzero" fill="#000000">
+            <path d="M12,3 C8.13400675,3 5,6.13400675 5,10 C5,15.938 12,22 12,22 C12,22 19,16 19,10 C19,6.13400675 15.8659932,3 12,3 Z M12,13 C10.3431458,13 9,11.6568542 9,10 C9,8.34314575 10.3431458,7 12,7 C13.6568542,7 15,8.34314575 15,10 C15,10.7956495 14.6839295,11.5587112 14.1213203,12.1213203 C13.5587112,12.6839295 12.7956495,13 12,13 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

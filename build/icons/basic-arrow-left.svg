@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>basic-arrow-left</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="basic-arrow-left" fill-rule="nonzero" fill="#000000">
+            <path d="M16.707,2.293 C16.3165001,1.90261806 15.6834999,1.90261806 15.293,2.293 L6.293,11.293 C5.90261806,11.6834999 5.90261806,12.3165001 6.293,12.707 L15.293,21.707 C15.6853789,22.0859722 16.3090848,22.0805524 16.6948186,21.6948186 C17.0805524,21.3090848 17.0859722,20.6853789 16.707,20.293 L8.414,12 L16.707,3.707 C17.0973819,3.31650015 17.0973819,2.68349985 16.707,2.293 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

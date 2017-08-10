@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>view-filter-16</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="view-filter-16" fill-rule="nonzero" fill="#000000">
+            <path d="M1,4 C1.00156707,4.91242553 1.43099982,5.77129102 2.16,6.32 L5,8.45 L5,15.53 L11,12.67 L11,8.45 L13.84,6.32 C14.5690002,5.77129102 14.9984329,4.91242553 15,4 L15,1 L1,1 L1,4 Z M2.8,2.8 L13.2,2.8 L13.2,4 C13.2,4.34623303 13.0369864,4.67226018 12.76,4.88 L9.2,7.55 L9.2,11.55 L6.8,12.67 L6.8,9 L7,9 C7.55228475,9 8,8.55228475 8,8 C8,7.44771525 7.55228475,7 7,7 L6.07,7 L4.73,6 L9,6 C9.55228475,6 10,5.55228475 10,5 C10,4.44771525 9.55228475,4 9,4 L2.9,4 L2.8,4 L2.8,2.8 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>basic-arrow-up</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="basic-arrow-up" fill-rule="nonzero" fill="#000000">
+            <path d="M11.293,6.293 L2.293,15.293 C1.91402779,15.6853789 1.91944763,16.3090848 2.30518142,16.6948186 C2.69091522,17.0805524 3.31462111,17.0859722 3.707,16.707 L12,8.414 L20.293,16.707 C20.6853789,17.0859722 21.3090848,17.0805524 21.6948186,16.6948186 C22.0805524,16.3090848 22.0859722,15.6853789 21.707,15.293 L12.707,6.293 C12.3165001,5.90261806 11.6834999,5.90261806 11.293,6.293 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

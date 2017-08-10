@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>basic-tick</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="basic-tick" fill-rule="nonzero" fill="#000000">
+            <path d="M20.293,5.293 L8,17.586 L3.707,13.293 C3.31462111,12.9140278 2.69091522,12.9194476 2.30518142,13.3051814 C1.91944763,13.6909152 1.91402779,14.3146211 2.293,14.707 L7.293,19.707 C7.68349985,20.0973819 8.31650015,20.0973819 8.707,19.707 L21.707,6.707 C22.0859722,6.31462111 22.0805524,5.69091522 21.6948186,5.30518142 C21.3090848,4.91944763 20.6853789,4.91402779 20.293,5.293 L20.293,5.293 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
