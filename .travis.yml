@@ -23,6 +23,13 @@ before_install:
   # Install FontForge
   - brew install ttfautohint fontforge --with-python
 
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - libstdc++-4.9-dev
+
 # Build
 script:
   - grunt
