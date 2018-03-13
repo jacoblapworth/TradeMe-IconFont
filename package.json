@@ -10,6 +10,8 @@
     "grunt-sketch": "^1.0.5",
     "grunt-svgmin": "^4.0.0",
     "grunt-webfont": "^1.6.0",
+    "inquirer": "^5.1.0",
+    "release-it": "^7.2.1",
     "simple-git": "^1.92.0"
   },
   "devDependencies": {
@@ -18,6 +20,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "grunt",
+    "release": "release-it",
     "git-commit": "bin/commit.js"
   },
   "author": "Jacob Lapworth <jacob.lapworth@trademe.co.nz>",
