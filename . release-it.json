@@ -1,0 +1,17 @@
+{
+    "requireCleanWorkingDir": false,
+    "src": {
+        "commit": true,
+        "commitMessage": "Release %s",
+        "tag": true,
+        "tagName": "%s",
+        "tagAnnotation": "Release %s",
+        "push": true
+      },
+    "npm": {
+        "publish": false
+    },
+    "github": {
+        "release": false
+    }
+}
