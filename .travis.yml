@@ -19,7 +19,7 @@ before_install:
   - wget https://www.sketchapp.com/download/sketch.zip
   - unzip sketch.zip
   # Install SketchTool
-  - Sketch.app/Contents/Resources/sketchtool/install.sh
+  # - Sketch.app/Contents/Resources/sketchtool/install.sh
   # Install FontForge
   - brew install ttfautohint fontforge --with-python
 
@@ -42,16 +42,7 @@ deploy:
     skip_cleanup: true
     overwrite: true
     on:
-      repo: TradeMe/TradeMe-IconFont
       tags: true
     file:
       - dist/tmicons-production.zip
       - dist/tmicons-sketch.zip
-  - provider: pages
-    github_token:
-      secure: $GITHUB_TOKEN
-    skip_cleanup: true
-    overwrite: true
-    on:
-      tags: true
-    local_dir: docs/
