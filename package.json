@@ -1,6 +1,6 @@
 {
   "name": "TradeMe.TradeMe.IconFont",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "SVG to iconfont converter for Trade Classic icons",
   "main": "gruntfile.js",
   "dependencies": {
