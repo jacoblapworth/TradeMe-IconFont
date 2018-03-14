@@ -45,5 +45,4 @@ deploy:
     on:
       tags: true
     file:
-      - dist/tmicons-production.zip
-      - dist/tmicons-sketch.zip
+      - dist/tangram_icons-sketch.zip

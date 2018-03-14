@@ -95,7 +95,7 @@ module.exports = function (grunt) {
     compress: {
       sketchtoolkit: {
         options: {
-          archive: 'dist/tmicons-sketch.zip'
+          archive: 'dist/tangram_icons-sketch.zip'
         },
         files: [{
           expand: true,
