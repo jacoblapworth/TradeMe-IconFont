@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>calculator-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="calculator-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="calculator-16" fill="#000000" fill-rule="nonzero">
             <path d="M15,12.6 L15,1 L1,1 L1,12.6 C1,13.9254834 2.0745166,15 3.4,15 L12.6,15 C13.9254834,15 15,13.9254834 15,12.6 Z M2.8,12.6 L2.8,2.8 L13.2,2.8 L13.2,12.6 C13.2,12.9313708 12.9313708,13.2 12.6,13.2 L3.4,13.2 C3.06862915,13.2 2.8,12.9313708 2.8,12.6 L2.8,12.6 Z" id="Shape"></path>
             <circle id="Oval" cx="5" cy="8" r="1"></circle>
             <circle id="Oval" cx="11" cy="8" r="1"></circle>

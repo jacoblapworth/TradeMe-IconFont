@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>graph-bar-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="graph-bar-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="graph-bar-16" fill="#000000" fill-rule="nonzero">
             <rect id="Rectangle-path" x="3" y="6" width="3" height="5"></rect>
             <rect id="Rectangle-path" x="7" y="4" width="3" height="7"></rect>
             <rect id="Rectangle-path" x="11" y="2" width="3" height="9"></rect>

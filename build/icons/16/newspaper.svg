@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>newspaper-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="newspaper-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="newspaper-16" fill="#000000" fill-rule="nonzero">
             <path d="M7.5,12 L11.5,12 C12.0522847,12 12.5,11.5522847 12.5,11 C12.5,10.4477153 12.0522847,10 11.5,10 L7.5,10 C6.94771525,10 6.5,10.4477153 6.5,11 C6.5,11.5522847 6.94771525,12 7.5,12 Z" id="Shape"></path>
             <path d="M7.5,6 L11.5,6 C12.0522847,6 12.5,5.55228475 12.5,5 C12.5,4.44771525 12.0522847,4 11.5,4 L7.5,4 C6.94771525,4 6.5,4.44771525 6.5,5 C6.5,5.55228475 6.94771525,6 7.5,6 Z" id="Shape"></path>
             <path d="M7.5,9 L11.5,9 C12.0522847,9 12.5,8.55228475 12.5,8 C12.5,7.44771525 12.0522847,7 11.5,7 L7.5,7 C6.94771525,7 6.5,7.44771525 6.5,8 C6.5,8.55228475 6.94771525,9 7.5,9 Z" id="Shape"></path>

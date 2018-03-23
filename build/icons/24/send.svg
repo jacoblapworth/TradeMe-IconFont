@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>send</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="send" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="send" fill="#000000" fill-rule="nonzero">
             <path d="M2.493,7.157 C1.67766597,7.41674708 1.1179102,8.16642295 1.10050571,9.02195507 C1.08310123,9.87748719 1.61190449,10.6493081 2.416,10.942 L10.216,13.78 L13.053,21.58 C13.3330091,22.3775639 14.0897521,22.9083295 14.935,22.9 L14.979,22.9 C15.8374997,22.8895841 16.5909283,22.3257253 16.843,21.505 L22.367,4.145 C22.5956639,3.43239827 22.4056219,2.65175828 21.875,2.124 C21.3302396,1.58472043 20.5354859,1.38402116 19.8,1.6 L2.493,7.157 Z M18.386,4.2 L10.743,11.843 L3.1,9.063 L18.386,4.2 Z M14.937,20.9 L12.158,13.256 L19.8,5.612 L14.937,20.9 Z" id="Shape"></path>
         </g>
     </g>

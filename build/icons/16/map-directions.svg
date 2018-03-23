@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>map-directions-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="map-directions-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="map-directions-16" fill="#000000" fill-rule="nonzero">
             <path d="M2.4,11 L6,11 L6,16 L7.8,16 L7.8,11 L10.66,11 C11.08001,10.9971369 11.4874941,10.8566251 11.82,10.6 L15,8.11 C15.3409504,7.84475708 15.5403634,7.43697335 15.5403634,7.005 C15.5403634,6.57302665 15.3409504,6.16524292 15,5.9 L11.82,3.4 C11.4878513,3.14271332 11.0801365,3.002122 10.66,3 L7.8,3 L7.8,2 C7.79999999,1.50294374 7.39705626,1.10000003 6.9,1.10000003 C6.40294374,1.10000003 6.00000001,1.50294374 6,2 L6,3 L2.4,3 C1.62680135,3 1,3.62680135 1,4.4 L1,9.6 C1,9.97130309 1.14749958,10.3273986 1.41005051,10.5899495 C1.67260144,10.8525004 2.02869691,11 2.4,11 L2.4,11 Z M2.8,4.8 L10.72,4.8 L13.53,7 L10.66,9.2 L2.8,9.2 L2.8,4.8 Z" id="Shape"></path>
         </g>
     </g>

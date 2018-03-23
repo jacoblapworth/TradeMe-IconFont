@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>house-blueprint</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="house-blueprint" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="house-blueprint" fill="#000000" fill-rule="nonzero">
             <path d="M4,22 L20,22 C21.1045695,22 22,21.1045695 22,20 L22,3 C22,2.44771525 21.5522847,2 21,2 L4,2 C2.8954305,2 2,2.8954305 2,4 L2,20 C2,21.1045695 2.8954305,22 4,22 Z M20,13 L17.413,13 L20,10.414 L20,13 Z M16,4 L18.586,4 L16,6.586 L16,4 Z M16,9.414 L20,5.414 L20,7.586 L16,11.586 L16,9.414 Z M4,4 L14,4 L14,13 C14,14.1045695 14.8954305,15 16,15 L20,15 L20,20 L10,20 L10,14.938 L11,14.938 C11.5522847,14.938 12,14.4902847 12,13.938 C12,13.3857153 11.5522847,12.938 11,12.938 L7,12.938 C6.44771525,12.938 6,13.3857153 6,13.938 C6,14.4902847 6.44771525,14.938 7,14.938 L8,14.938 L8,20 L4,20 L4,4 Z" id="Shape"></path>
         </g>
     </g>

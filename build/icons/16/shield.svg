@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>shield-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="shield-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shield-16" fill="#000000" fill-rule="nonzero">
             <path d="M7.81,15 L8,15 L8.18,15 C10.18,14.6 14,12.83 14,9 L14,4.94 C14.0011043,4.56933824 13.7748482,4.23590827 13.43,4.1 L8.33,2.1 C8.11498966,2.01377237 7.87501034,2.01377237 7.66,2.1 L2.56,4.1 C2.21908063,4.23908771 1.99726582,4.57180993 2,4.94 L2,9 C2,13.65 7.57,14.93 7.81,15 Z M3.81,9 L3.81,8.61 L7.1,7.32 L7.1,8.39 L3.87,9.65 C3.82514415,9.43619474 3.80169508,9.21845335 3.8,9 L3.81,9 Z M4.7,11.26 L7.11,10.31 L7.11,12.85 C6.19372813,12.5093222 5.36640862,11.9657527 4.69,11.26 L4.7,11.26 Z M12.2,9 C12.2,11.27 10.2,12.39 8.9,12.88 L8.9,4.23 L12.2,5.55 L12.2,9 Z M7.1,4.23 L7.1,5.39 L3.8,6.68 L3.8,5.55 L7.1,4.23 Z" id="Shape"></path>
         </g>
     </g>

@@ -1,9 +1,7 @@
-# TradeMe-IconFont
+# Trade Me iconfont
 [![Build Status](https://travis-ci.org/jacoblapworth/TradeMe.Tangram.IconFont.svg?branch=master)](https://travis-ci.org/jacoblapworth/TradeMe.Tangram.IconFont)
 
-Workflow for creating the iconfont for Tangram style icons used in [Trade Me](http://preview.trademe.co.nz/)
-
-[Iconfont demo](https://trademe.github.io/TradeMe.Tangram.IconFont/)
+CI of iconfont for Tangram Sketch toolkit.
 
 Icons are exported from Sketch as SVG, minified, converted to TTF font using ligatures to remap names as icons
 

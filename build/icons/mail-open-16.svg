@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>mail-open-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="mail-open-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mail-open-16" fill="#000000" fill-rule="nonzero">
             <path d="M14.49,5.33 C14.4655207,5.2981248 14.4387854,5.26804754 14.41,5.24 L9.86,1.67 C8.79006777,0.78256919 7.23993223,0.78256919 6.17,1.67 L1.59,5.24 C1.56841029,5.26543652 1.54837394,5.29215166 1.53,5.32 C1.19862557,5.58094288 1.00365878,5.9782337 1,6.4 L1,13.6 C1,14.3731986 1.62680135,15 2.4,15 L13.6,15 C13.9713031,15 14.3273986,14.8525004 14.5899495,14.5899495 C14.8525004,14.3273986 15,13.9713031 15,13.6 L15,6.4 C14.996823,5.9854118 14.8100502,5.59355521 14.49,5.33 L14.49,5.33 Z M7.3,3.05 C7.71164642,2.6979035 8.31835358,2.6979035 8.73,3.05 L12.73,6.15 C12.6443361,6.17749638 12.5633954,6.21796673 12.49,6.27 L8.7,9.24 C8.28682821,9.58794189 7.68317179,9.58794189 7.27,9.24 L3.56,6.29 C3.48660458,6.23796673 3.40566386,6.19749638 3.32,6.17 L7.3,3.05 Z M2.8,13.2 L2.8,8 L6.14,10.63 C6.66281321,11.0635509 7.32080955,11.300571 8,11.3 C8.66838094,11.3005939 9.31586087,11.0670766 9.83,10.64 L13.2,8 L13.2,13.2 L2.8,13.2 Z" id="Shape"></path>
         </g>
     </g>

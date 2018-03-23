@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>mail</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="mail" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mail" fill="#000000" fill-rule="nonzero">
             <path d="M20,5 L4,5 C2.8954305,5 2,5.8954305 2,7 L2,17 C2,18.1045695 2.8954305,19 4,19 L20,19 C21.1045695,19 22,18.1045695 22,17 L22,7 C22,5.8954305 21.1045695,5 20,5 Z M18.475,7 L13.993,10.891 C12.8521613,11.9073012 11.1297644,11.9038564 9.993,10.883 L5.525,7 L18.475,7 Z M4,17 L4,8.324 L8.679,12.385 C10.569896,14.065518 13.4180564,14.0689526 15.313,12.393 L20,8.324 L20,17 L4,17 Z" id="Shape"></path>
         </g>
     </g>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>timer-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="timer-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="timer-16" fill="#000000" fill-rule="nonzero">
             <path d="M3.94,13.62 C4.33116489,14.4648302 5.1790156,15.0040164 6.11,15 L9.89,15 C10.8219428,14.9997046 11.6694571,14.4599308 12.0637968,13.6155295 C12.4581366,12.7711281 12.3279967,11.7747849 11.73,11.06 L9.17,8 L11.73,4.94 C12.3279967,4.22521514 12.4581366,3.22887186 12.0637968,2.38447051 C11.6694571,1.54006917 10.8219428,1.00029535 9.89,1 L6.11,1 C5.17805722,1.00029535 4.33054288,1.54006917 3.93620316,2.38447051 C3.54186345,3.22887186 3.6720033,4.22521514 4.27,4.94 L6.83,8 L4.27,11.06 C3.66663791,11.7744063 3.53753443,12.7759363 3.94,13.62 L3.94,13.62 Z M5.57,3.15 C5.66284078,2.93502049 5.87584972,2.79695914 6.11,2.8 L9.89,2.8 C10.1289313,2.79485753 10.3481311,2.93200064 10.448005,3.14911771 C10.5478788,3.36623479 10.5093798,3.62191939 10.35,3.8 L9.34,5 L6.66,5 L5.66,3.79 C5.50290783,3.6146955 5.46734875,3.36183092 5.57,3.15 Z M8,9.4 L9.34,11 L6.66,11 L8,9.4 Z" id="Shape"></path>
         </g>
     </g>

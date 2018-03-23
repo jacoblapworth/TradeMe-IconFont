@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>view-selection</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="view-selection" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="view-selection" fill="#000000" fill-rule="nonzero">
             <path d="M20,13 L15,13 C13.8954305,13 13,13.8954305 13,15 L13,20 C13,21.1045695 13.8954305,22 15,22 L20,22 C21.1045695,22 22,21.1045695 22,20 L22,15 C22,13.8954305 21.1045695,13 20,13 Z M15,20 L15,15 L20,15 L20,20 L15,20 Z M9,13 C10.1045695,13 11,13.8954305 11,15 L11,20 C11,21.1045695 10.1045695,22 9,22 L4,22 C2.8954305,22 2,21.1045695 2,20 L2,15 C2,13.8954305 2.8954305,13 4,13 L9,13 Z M4,20 L9,20 L9,15 L4,15 L4,20 Z M9,2 C10.1045695,2 11,2.8954305 11,4 L11,9 C11,10.1045695 10.1045695,11 9,11 L4,11 C2.8954305,11 2,10.1045695 2,9 L2,4 C2,2.8954305 2.8954305,2 4,2 L9,2 Z M4,9 L9,9 L9,4 L4,4 L4,9 Z M22.293,2.293 C22.6853789,1.91402779 23.3090848,1.91944763 23.6948186,2.30518142 C24.0805524,2.69091522 24.0859722,3.31462111 23.707,3.707 L17,10.414 L13.293,6.707 C12.9140278,6.31462111 12.9194476,5.69091522 13.3051814,5.30518142 C13.6909152,4.91944763 14.3146211,4.91402779 14.707,5.293 L17,7.586 L22.293,2.293 Z" id="Combined-Shape"></path>
         </g>
     </g>

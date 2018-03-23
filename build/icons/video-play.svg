@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>video-play</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="video-play" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="video-play" fill="#000000" fill-rule="nonzero">
             <path d="M8.029,19.983 L18.475,13.715 C19.0774242,13.3535567 19.4460321,12.7025355 19.4460321,12 C19.4460321,11.2974645 19.0774242,10.6464433 18.475,10.285 L8.029,4.017 C7.41113595,3.64627741 6.64161937,3.63656802 6.01459831,3.99158325 C5.38757724,4.34659847 4.99999307,5.01145075 5,5.732 L5,18.268 C4.99999307,18.9885493 5.38757724,19.6534015 6.01459831,20.0084168 C6.64161937,20.363432 7.41113595,20.3537226 8.029,19.983 L8.029,19.983 Z" id="Shape"></path>
         </g>
     </g>

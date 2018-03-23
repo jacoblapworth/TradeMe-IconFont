@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>emo-happy-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="emo-happy-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="emo-happy-16" fill="#000000" fill-rule="nonzero">
             <path d="M8,1 C4.13400675,1 1,4.13400675 1,8 C1,11.8659932 4.13400675,15 8,15 C11.8659932,15 15,11.8659932 15,8 C15,6.14348457 14.2625021,4.36300718 12.9497475,3.05025253 C11.6369928,1.73749788 9.85651543,1 8,1 L8,1 Z M8,13.2 C5.1281193,13.2 2.8,10.8718807 2.8,8 C2.8,5.1281193 5.1281193,2.8 8,2.8 C10.8718807,2.8 13.2,5.1281193 13.2,8 C13.1944974,10.8695984 10.8695984,13.1944974 8,13.2 Z M8,12 C9.65685425,12 11,10.6568542 11,9 L5,9 C5,10.6568542 6.34314575,12 8,12 Z M6,8 C6.55228475,8 7,7.55228475 7,7 C7,6.44771525 6.55228475,6 6,6 C5.44771525,6 5,6.44771525 5,7 C5,7.55228475 5.44771525,8 6,8 Z M10,8 C10.5522847,8 11,7.55228475 11,7 C11,6.44771525 10.5522847,6 10,6 C9.44771525,6 9,6.44771525 9,7 C9,7.55228475 9.44771525,8 10,8 Z" id="Combined-Shape"></path>
         </g>
     </g>

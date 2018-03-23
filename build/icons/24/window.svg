@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>window</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="window" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="window" fill="#000000" fill-rule="nonzero">
             <path d="M22,6 C22,4.34314575 20.6568542,3 19,3 L5,3 C3.34314575,3 2,4.34314575 2,6 L2,20 C2,21.6568542 3.34314575,23 5,23 L19,23 C20.6568542,23 22,21.6568542 22,20 L22,6 Z M5,5 L19,5 C19.5522847,5 20,5.44771525 20,6 L20,9 L4,9 L4,6 C4,5.44771525 4.44771525,5 5,5 Z M19,21 L5,21 C4.44771525,21 4,20.5522847 4,20 L4,11 L20,11 L20,20 C20,20.5522847 19.5522847,21 19,21 Z M6,8 C5.44771525,8 5,7.55228475 5,7 C5,6.44771525 5.44771525,6 6,6 C6.55228475,6 7,6.44771525 7,7 C7,7.55228475 6.55228475,8 6,8 Z M9,8 C8.44771525,8 8,7.55228475 8,7 C8,6.44771525 8.44771525,6 9,6 L17.5,6 C18.0522847,6 18.5,6.44771525 18.5,7 C18.5,7.55228475 18.0522847,8 17.5,8 L9,8 Z" id="Combined-Shape"></path>
         </g>
     </g>

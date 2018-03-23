@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>bank-account</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="bank-account" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bank-account" fill="#000000" fill-rule="nonzero">
             <path d="M19,17.142 L19,9 L20,9 C20.4641918,9.0004339 20.8676531,8.68137663 20.9742238,8.22958366 C21.0807945,7.77779068 20.862452,7.31205992 20.447,7.105 L12.447,3.105 C12.165316,2.96404524 11.833684,2.96404524 11.552,3.105 L3.552,7.105 C3.13637902,7.31214245 2.91804846,7.77814892 3.02488821,8.23007155 C3.13172797,8.68199417 3.53562086,9.0008998 4,9 L5,9 L5,17.142 C3.23931486,17.5965933 2.00681482,19.1815884 2,21 L2,22 L22,22 L22,21 C21.9931852,19.1815884 20.7606851,17.5965933 19,17.142 L19,17.142 Z M12,5.118 L15.764,7 L8.236,7 L12,5.118 Z M17,9 L17,17 L15,17 L15,11 C15,10.4477153 14.5522847,10 14,10 C13.4477153,10 13,10.4477153 13,11 L13,17 L11,17 L11,11 C11,10.4477153 10.5522847,10 10,10 C9.44771525,10 9,10.4477153 9,11 L9,17 L7,17 L7,9 L17,9 Z M4.269,20 C4.62607782,19.3815228 5.28584427,19.0003753 6,19 L18,19 C18.7141557,19.0003753 19.3739222,19.3815228 19.731,20 L4.269,20 Z" id="Shape"></path>
         </g>
     </g>

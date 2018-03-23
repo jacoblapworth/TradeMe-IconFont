@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>basic-arrow-up-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="basic-arrow-up-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="basic-arrow-up-16" fill="#000000" fill-rule="nonzero">
             <path d="M1.29,11.71 C1.68003745,12.0977236 2.30996255,12.0977236 2.7,11.71 L8,6.41 L13.29,11.7 C13.6867603,12.0397768 14.2781942,12.0169323 14.6475632,11.6475632 C15.0169323,11.2781942 15.0397768,10.6867603 14.7,10.29 L8.7,4.29 C8.30996255,3.90227641 7.68003745,3.90227641 7.29,4.29 L1.29,10.29 C1.10068735,10.4777666 0.994201676,10.7333625 0.994201676,11 C0.994201676,11.2666375 1.10068735,11.5222334 1.29,11.71 L1.29,11.71 Z" id="Shape"></path>
         </g>
     </g>

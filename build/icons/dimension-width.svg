@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>dimension-width</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="dimension-width" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dimension-width" fill="#000000" fill-rule="nonzero">
             <path d="M2.293,12.707 L2.293,12.707 L6.293,16.707 C6.68537889,17.0859722 7.30908478,17.0805524 7.69481858,16.6948186 C8.08055237,16.3090848 8.08597221,15.6853789 7.707,15.293 L5.414,13 L18.586,13 L16.293,15.293 C16.0330434,15.5440745 15.9287874,15.9158779 16.0203028,16.2655073 C16.1118183,16.6151368 16.3848632,16.8881817 16.7344927,16.9796972 C17.0841221,17.0712126 17.4559255,16.9669566 17.707,16.707 L21.707,12.707 L21.707,12.707 L22.414,12 L21.707,11.293 L21.707,11.293 L17.707,7.293 C17.3146211,6.91402779 16.6909152,6.91944763 16.3051814,7.30518142 C15.9194476,7.69091522 15.9140278,8.31462111 16.293,8.707 L18.586,11 L5.414,11 L7.707,8.707 C8.08597221,8.31462111 8.08055237,7.69091522 7.69481858,7.30518142 C7.30908478,6.91944763 6.68537889,6.91402779 6.293,7.293 L2.293,11.293 L2.293,11.293 L1.586,12 L2.293,12.707 Z" id="Shape"></path>
         </g>
     </g>

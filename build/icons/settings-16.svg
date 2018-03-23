@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>settings-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="settings-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="settings-16" fill="#000000" fill-rule="nonzero">
             <path d="M12.38,5.85 L13.59,3.69 L12.32,2.41 L10.16,3.62 C9.97207497,3.52750879 9.77833262,3.44733954 9.58,3.38 L8.91,1 L7.11,1 L6.43,3.38 C6.22827695,3.44695848 6.0311836,3.52713204 5.84,3.62 L3.69,2.41 L2.42,3.69 L3.62,5.84 C3.52713204,6.0311836 3.44695848,6.22827695 3.38,6.43 L1,7.1 L1,8.9 L3.38,9.57 C3.4469856,9.77171305 3.52715845,9.96880463 3.62,10.16 L2.42,12.31 L3.69,13.58 L5.84,12.37 C6.0311836,12.462868 6.22827695,12.5430415 6.43,12.61 L7.11,15 L8.91,15 L9.58,12.62 C9.77833262,12.5526605 9.97207497,12.4724912 10.16,12.38 L12.32,13.59 L13.59,12.32 L12.38,10.16 C12.4724655,9.97206335 12.5526341,9.77832269 12.62,9.58 L15,8.9 L15,7.1 L12.61,6.43 C12.5458877,6.23192108 12.4690614,6.0381853 12.38,5.85 L12.38,5.85 Z M11.1,8 C11.1,9.71208272 9.71208272,11.1 8,11.1 C6.28791728,11.1 4.9,9.71208272 4.9,8 C4.9,6.28791728 6.28791728,4.9 8,4.9 C9.71208272,4.9 11.1,6.28791728 11.1,8 Z" id="Shape"></path>
             <circle id="Oval" cx="8" cy="8" r="1.5"></circle>
         </g>

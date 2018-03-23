@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>basic-arrow-right-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="basic-arrow-right-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="basic-arrow-right-16" fill="#000000" fill-rule="nonzero">
             <path d="M5.29,14.71 C5.68003745,15.0977236 6.30996255,15.0977236 6.7,14.71 L12.7,8.71 C13.0877236,8.31996255 13.0877236,7.69003745 12.7,7.3 L6.7,1.3 C6.30323972,0.960223204 5.71180583,0.98306773 5.34243678,1.35243678 C4.97306773,1.72180583 4.9502232,2.31323972 5.29,2.71 L10.59,8 L5.29,13.29 C5.10068735,13.4777666 4.99420168,13.7333625 4.99420168,14 C4.99420168,14.2666375 5.10068735,14.5222334 5.29,14.71 Z" id="Shape"></path>
         </g>
     </g>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>bookmark-plus</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="bookmark-plus" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bookmark-plus" fill="#000000" fill-rule="nonzero">
             <path d="M19,11 C18.4477153,11 18,11.4477153 18,12 L18,18.759 L13,15.843 L8,18.759 L8,5 C7.99473547,4.65668854 7.92485043,4.31744077 7.794,4 L11,4 C11.5522847,4 12,3.55228475 12,3 C12,2.44771525 11.5522847,2 11,2 L5,2 C3.36892521,2.06064333 2.06064333,3.36892521 2,5 L2,10 L6,10 L6,22.241 L13,18.157 L20,22.241 L20,12 C20,11.4477153 19.5522847,11 19,11 Z M6,8 L4,8 L4,5 C4.05849097,4.47384161 4.47384161,4.05849097 5,4 C5.52530388,4.06026476 5.93973524,4.47469612 6,5 L6,8 Z" id="Shape"></path>
             <path d="M21,4 L19,4 L19,2 C19,1.44771525 18.5522847,1 18,1 C17.4477153,1 17,1.44771525 17,2 L17,4 L15,4 C14.4477153,4 14,4.44771525 14,5 C14,5.55228475 14.4477153,6 15,6 L17,6 L17,8 C17,8.55228475 17.4477153,9 18,9 C18.5522847,9 19,8.55228475 19,8 L19,6 L21,6 C21.5522847,6 22,5.55228475 22,5 C22,4.44771525 21.5522847,4 21,4 Z" id="Shape"></path>
         </g>

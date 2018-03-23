@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>truck</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="truck" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="truck" fill="#000000" fill-rule="nonzero">
             <path d="M18,8 L16,8 L16,7 C16,5.34314575 14.6568542,4 13,4 L2,4 L2,19 L4,19 C4.00000002,20.6568542 5.34314577,22 7,22 C8.65685423,22 9.99999998,20.6568542 10,19 L14,19 C14,20.6568542 15.3431458,22 17,22 C18.6568542,22 20,20.6568542 20,19 L22,19 L22,12 C22,9.790861 20.209139,8 18,8 Z M4,17 L4,6 L13,6 C13.5522847,6 14,6.44771525 14,7 L14,14 C14,14.5522847 14.4477153,15 15,15 C15.5522847,15 16,14.5522847 16,14 L16,10 L18,10 L18,14 L20,14 L20,17 L4,17 Z" id="Shape"></path>
         </g>
     </g>

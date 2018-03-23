@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>basic-cross</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="basic-cross" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="basic-cross" fill="#000000" fill-rule="nonzero">
             <path d="M4.293,19.707 C4.68349985,20.0973819 5.31650015,20.0973819 5.707,19.707 L12,13.414 L18.293,19.707 C18.6853789,20.0859722 19.3090848,20.0805524 19.6948186,19.6948186 C20.0805524,19.3090848 20.0859722,18.6853789 19.707,18.293 L13.414,12 L19.707,5.707 C20.0859722,5.31462111 20.0805524,4.69091522 19.6948186,4.30518142 C19.3090848,3.91944763 18.6853789,3.91402779 18.293,4.293 L12,10.586 L5.707,4.293 C5.31462111,3.91402779 4.69091522,3.91944763 4.30518142,4.30518142 C3.91944763,4.69091522 3.91402779,5.31462111 4.293,5.707 L10.586,12 L4.293,18.293 C3.90261806,18.6834999 3.90261806,19.3165001 4.293,19.707 L4.293,19.707 Z" id="Shape"></path>
         </g>
     </g>

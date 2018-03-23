@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>star-fill-16</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="star-fill-16" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star-fill-16" fill="#000000" fill-rule="nonzero">
             <path d="M15.09,6.25 C14.9827928,5.92416898 14.699695,5.68760781 14.36,5.64 L10.52,5.08 L8.81,1.6 C8.63988335,1.31785127 8.33446559,1.14536069 8.005,1.14536069 C7.67553441,1.14536069 7.37011665,1.31785127 7.2,1.6 L5.48,5.08 L1.64,5.64 C1.29865244,5.68747308 1.01438738,5.92570537 0.907962403,6.25349429 C0.801537429,6.58128321 0.891642339,6.94106419 1.14,7.18 L3.92,9.88 L3.26,13.71 C3.20035844,14.0490449 3.33934437,14.3924098 3.61802809,14.5945086 C3.8967118,14.7966075 4.26626579,14.8220312 4.57,14.66 L8,12.85 L11.43,14.66 C11.7337342,14.8220312 12.1032882,14.7966075 12.3819719,14.5945086 C12.6606556,14.3924098 12.7996416,14.0490449 12.74,13.71 L12.08,9.88 L14.86,7.17 C15.1051167,6.93187169 15.1942191,6.57546228 15.09,6.25 Z" id="Shape"></path>
         </g>
     </g>

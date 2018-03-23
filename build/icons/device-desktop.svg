@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>device-desktop</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="device-desktop" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="device-desktop" fill="#000000" fill-rule="nonzero">
             <path d="M19.81,2 L4.19,2 C2.43049067,2.00548993 1.00548993,3.43049067 1,5.19 L1,13.8 C0.99999139,15.5634133 2.4265953,16.9944893 4.19,17 L9,17 L9,18 L6,18 C4.8954305,18 4,18.8954305 4,20 L4,22 C4,22.5522847 4.44771525,23 5,23 L19,23 C19.5522847,23 20,22.5522847 20,22 L20,20 C20,18.8954305 19.1045695,18 18,18 L15,18 L15,17 L19.81,17 C21.5695093,16.9945101 22.9945101,15.5695093 23,13.81 L23,5.19 C22.9945101,3.43049067 21.5695093,2.00548993 19.81,2 L19.81,2 Z M18,21 L6,21 L6,20 L18,20 L18,21 Z M13,18 L11,18 L11,17 L13,17 L13,18 Z M21,13.81 C20.9945644,14.4649541 20.4649541,14.9945644 19.81,15 L4.19,15 C3.53504585,14.9945644 3.00543558,14.4649541 3,13.81 L3,5.19 C3.00543558,4.53504585 3.53504585,4.00543558 4.19,4 L19.81,4 C20.4649541,4.00543558 20.9945644,4.53504585 21,5.19 L21,13.81 Z" id="Shape"></path>
         </g>
     </g>

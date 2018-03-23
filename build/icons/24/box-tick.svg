@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: sketchtool 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
     <title>box-tick</title>
     <desc>Created with sketchtool.</desc>
     <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="box-tick" fill-rule="nonzero" fill="#000000">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="box-tick" fill="#000000" fill-rule="nonzero">
             <path d="M22.293,16.293 C22.6853789,15.9140278 23.3090848,15.9194476 23.6948186,16.3051814 C24.0805524,16.6909152 24.0859722,17.3146211 23.707,17.707 L17.5,23.914 L13.793,20.207 C13.4140278,19.8146211 13.4194476,19.1909152 13.8051814,18.8051814 C14.1909152,18.4194476 14.8146211,18.4140278 15.207,18.793 L17.5,21.086 L22.293,16.293 Z M3,19 L3,9 C2.44771525,9 2,8.55228475 2,8 L2,5 C2,3.8954305 2.8954305,3 4,3 L20,3 C21.1045695,3 22,3.8954305 22,5 L22,8 C22,8.55228475 21.5522847,9 21,9 L21,14 C21,14.5522847 20.5522847,15 20,15 C19.4477153,15 19,14.5522847 19,14 L19,9 L5,9 L5,19 L10,19 C10.5522847,19 11,19.4477153 11,20 C11,20.5522847 10.5522847,21 10,21 L5,21 C3.8954305,21 3,20.1045695 3,19 Z M4,5 L4,7 L20,7 L20,5 L4,5 Z M9,11 L15,11 C15.5522847,11 16,11.4477153 16,12 C16,12.5522847 15.5522847,13 15,13 L9,13 C8.44771525,13 8,12.5522847 8,12 C8,11.4477153 8.44771525,11 9,11 Z" id="Combined-Shape"></path>
         </g>
     </g>
