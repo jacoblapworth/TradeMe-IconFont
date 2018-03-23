@@ -20,7 +20,7 @@ before_install:
   - unzip sketch.zip
   # Install SketchTool
   # - Sketch.app/Contents/Resources/sketchtool/install.sh
-  - cp Sketch.app/Contents/Resources/sketchtool/bin/sketchtool /usr/local/bin/
+  # - cp Sketch.app/Contents/Resources/sketchtool/bin/sketchtool /usr/local/bin/
   # Install FontForge
   - brew install ttfautohint fontforge --with-python
 
