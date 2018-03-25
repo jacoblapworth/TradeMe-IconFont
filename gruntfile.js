@@ -1,20 +1,8 @@
 module.exports = function (grunt) {
 
   grunt.initConfig({
-    // export icons as svg from sketch
-    sketch_export: {
-      icons: {
-        options: {
-          type: 'slices',
-          formats: [
-            'svg'
-          ],
-          overwrite: true
-        },
-        src: 'src/sketch/*.sketch',
-        dest: 'build/icons'
-      }
-    },
+    // TODO: export icons as svg from Figma
+
     // optimise svg
     svgmin: {
       options: {
@@ -57,10 +45,10 @@ module.exports = function (grunt) {
     },
     // build font files
     webfont: {
-      // iconfont for Sketch App toolkit
-      sketchtoolkit_regular: {
+      // iconfont for Design toolkit
+      designtoolkit_regular: {
         src: 'build/icons/24/*.svg',
-        dest: 'build/sketch-toolkit',
+        dest: 'build/design-toolkit',
         options: {
           font: 'TangramIcons-Regular24',
           types: 'ttf',
@@ -76,9 +64,9 @@ module.exports = function (grunt) {
           }]
         }
       },
-      sketchtoolkit_small: {
+      designtoolkit_small: {
         src: 'build/icons/16/*.svg',
-        dest: 'build/sketch-toolkit',
+        dest: 'build/design-toolkit',
         options: {
           font: 'TangramIcons-Small16',
           types: 'ttf',
@@ -95,11 +83,11 @@ module.exports = function (grunt) {
     compress: {
       sketchtoolkit: {
         options: {
-          archive: 'dist/tangram_icons-sketch.zip'
+          archive: 'dist/tangram_icons-design.zip'
         },
         files: [{
           expand: true,
-          cwd: 'build/sketch-toolkit/',
+          cwd: 'build/design-toolkit/',
           src: ['**/*'],
           dest: ''
         }]
@@ -107,13 +95,12 @@ module.exports = function (grunt) {
     }
   });
 
-  grunt.loadNpmTasks('grunt-sketch');
   grunt.loadNpmTasks('grunt-svgmin');
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-webfont');
   grunt.loadNpmTasks('grunt-contrib-compress');
 
   // Default task(s).
-  grunt.registerTask('default', ['sketch_export', 'svgmin', 'copy', 'webfont', 'compress']);
+  grunt.registerTask('default', ['svgmin', 'copy', 'webfont', 'compress']);
 
 };
