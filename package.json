@@ -1,6 +1,6 @@
 {
   "name": "TradeMe.Tangram.IconFont",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "description": "SVG to iconfont converter for Trade Me icons",
   "main": "gruntfile.js",
   "figma": {

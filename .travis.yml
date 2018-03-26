@@ -2,7 +2,7 @@ os: osx
 sudo: required
 language: node_js
 node_js:
-  - "6"
+  - 8
 
 #blocklist
 branches:
@@ -10,7 +10,7 @@ branches:
     - gh-pages
 
 cache:
-  # yarn: true
+  yarn: true
   directories:
   - node_modules
 
