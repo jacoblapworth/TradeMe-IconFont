@@ -10,7 +10,7 @@ branches:
     - gh-pages
 
 cache:
-  - yarn
+  yarn: true
   directories:
   - node_modules
 
