@@ -72,7 +72,7 @@ module.exports = {
       //         .replace(/<use[^>]*>/g, "")
 
       resolve(svg)
-      .catch(err => reject(`There was trouble downloading ${url}\n${err}`))
-    })
+      // .catch(err => reject(`There was trouble downloading ${url}\n${err}`))
+    }).catch(err => reject(`There was trouble downloading ${url}\n${err}`))
   }
 }
