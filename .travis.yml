@@ -10,6 +10,7 @@ branches:
     - gh-pages
 
 cache:
+  - yarn
   directories:
   - node_modules
 
@@ -27,7 +28,7 @@ addons:
 
 # Build
 script:
-  - build
+  - yarn build
 
 # Deploy
 deploy:
