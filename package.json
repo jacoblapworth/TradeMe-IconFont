@@ -1,6 +1,6 @@
 {
   "name": "TradeMe.Tangram.IconFont",
-  "version": "2.0.5",
+  "version": "2.1.0",
   "description": "SVG to iconfont converter for Trade Me icons",
   "main": "gruntfile.js",
   "figma": {
@@ -14,13 +14,17 @@
     "grunt-webfont": "^1.6.0"
   },
   "devDependencies": {
+    "fs-extra": "^5.0.0",
+    "got": "^8.3.0",
     "grunt": "^1.0.1",
+    "js-yaml": "^3.11.0",
+    "ora": "^2.0.0",
     "release-it": "^7.2.1",
-    "conventional-changelog-cli": "^1.3.16"
+    "svgo": "^1.0.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "grunt",
+    "build": "node script/export && grunt",
     "release": "release-it"
   },
   "author": "Jacob Lapworth <jacob.lapworth@trademe.co.nz>",

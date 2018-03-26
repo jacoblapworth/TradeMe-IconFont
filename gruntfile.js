@@ -1,26 +1,13 @@
 module.exports = function (grunt) {
 
   grunt.initConfig({
-    // TODO: export icons as svg from Figma
-
-    // optimise svg
-    svgmin: {
-      options: {
-        plugins: [{
-          mergePaths: true
-        }]
-      },
-      dist: {
-        files: 'build/icons/*.svg'
-      }
-    },
-    // sort svg sizes
+    // sort icon sizes
     copy: {
       Regular24: {
         files: [
           {
             expand: true,
-            cwd: 'build/icons/',
+            cwd: 'lib/build/svg/',
             src: ['*.svg', '!*-16.svg'],
             dest: 'build/icons/24/',
             rename: function (dest, src) {
@@ -33,7 +20,7 @@ module.exports = function (grunt) {
         files: [
           {
             expand: true,
-            cwd: 'build/icons/',
+            cwd: 'lib/build/svg/',
             src: ['*-16.svg'],
             dest: 'build/icons/16/',
             rename: function (dest, src) {
@@ -45,7 +32,7 @@ module.exports = function (grunt) {
     },
     // build font files
     webfont: {
-      // iconfont for Design toolkit
+      // iconfont for design toolkit
       designtoolkit_regular: {
         src: 'build/icons/24/*.svg',
         dest: 'build/design-toolkit',
@@ -95,12 +82,14 @@ module.exports = function (grunt) {
     }
   });
 
-  grunt.loadNpmTasks('grunt-svgmin');
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-webfont');
   grunt.loadNpmTasks('grunt-contrib-compress');
 
   // Default task(s).
-  grunt.registerTask('default', ['svgmin', 'copy', 'webfont', 'compress']);
+  grunt.registerTask('default', [
+    'copy',
+    'webfont', 
+    'compress']);
 
 };

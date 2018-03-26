@@ -39,4 +39,4 @@ deploy:
     on:
       tags: true
     file:
-      - dist/tangram_icons-sketch.zip
+      - dist/tangram_icons-design.zip
